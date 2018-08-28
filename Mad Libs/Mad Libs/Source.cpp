@@ -39,9 +39,6 @@ int main()
 	cout << "Choose another number ";
 	cin >> b;
 
-	cout << "Choose your last number ";
-	cin >> c;
-
 	c = a - b;
 
 	cout << "The " << colorDragon << " Dragon is the " << estWord << " Dragon of all. It has " << c << " " << bodyParts << ", and a " << animal << " shaped like a " << noun << ". It loves to eat " << pluralNoun << ", although it will feast on nearly anything.";

@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{A3A56AB9-79E7-4EBD-9F40-352498A3C1A4}</ProjectGuid>
-    <RootNamespace>ExpensiveCalcuator2</RootNamespace>
+    <ProjectGuid>{830BCF90-701E-4C6C-B452-63F8202B063B}</ProjectGuid>
+    <RootNamespace>Advanced</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
